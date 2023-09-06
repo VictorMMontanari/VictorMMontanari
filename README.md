@@ -2,12 +2,13 @@
 
 **VictorMMontanari/VictorMMontanari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<div align="center">
-  <a href="https://github.com/VictorMMontanari">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorMMontanari&show_icons=true&theme=transparent&include_all_commits=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMMontanari&layout=compact&langs_count=7&theme=transparent"/>
-  </a>
-</div>
+<a href="https://github.com/VictorMMontanari/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=VictorMMontanari" />
+</a>
+<a href="https://github.com/VictorMMontanari/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VictorMMontanari&layout=compact&langs_count=8&card_width=320" />
+</a>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Dev-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Dev-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
