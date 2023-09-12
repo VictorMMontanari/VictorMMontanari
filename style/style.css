@@ -1,0 +1,5 @@
+.nav{
+    display: flex;
+    border: 2px solid white;
+    background-color: rgb(155, 155, 155);
+}
