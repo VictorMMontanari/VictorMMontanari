@@ -3,10 +3,10 @@
 **VictorMMontanari** 
 
 <div>
-    <a href="https://github.com/VictorMMontanari/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=VictorMMontanari" />
+    <a href="https://github.com/VictorMMontanari/github-readme-stats/">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=VictorMMontanari/" />
     </a>
-    <a href="https://github.com/VictorMMontanari/convoychat">
+    <a href="https://github.com/VictorMMontanari">
       <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VictorMMontanari&layout=compact&langs_count=8&card_width=320" />
     </a>
 </div>
