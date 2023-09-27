@@ -3,11 +3,11 @@
 **VictorMMontanari** 
 
 <div>
-    <a href="https://github.com/VictorMMontanari/github-readme-stats/">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=VictorMMontanari/" />
+    <a href="https://github.com/VictorMMontanari/github-readme-stats">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=VictorMMontanari&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
     </a>
     <a href="https://github.com/VictorMMontanari/convoychat">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VictorMMontanari&layout=compact&langs_count=8&card_width=320" />
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMMontanari&layout=pie" />
     </a>
 </div>
     <div style="display: inline_block"><br>
