@@ -1,6 +1,6 @@
 #Hi there 👋
 
-**VictorMMontanari/VictorMMontanari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**VictorMMontanari** 
 
 <div>
     <a href="https://github.com/VictorMMontanari/github-readme-stats">
